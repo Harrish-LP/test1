@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /_next/static/
+Disallow: /_next/data/
+

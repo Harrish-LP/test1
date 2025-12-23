@@ -1,0 +1,547 @@
+1:"$Sreact.fragment"
+2:I[42797,["/_next/static/chunks/cf872e8731d8a68e.js","/_next/static/chunks/a90ef41594f1f02c.js","/_next/static/chunks/14cfe29884804038.js"],"Link"]
+3:I[75431,["/_next/static/chunks/cf872e8731d8a68e.js","/_next/static/chunks/a90ef41594f1f02c.js","/_next/static/chunks/14cfe29884804038.js"],"default"]
+9:I[5500,["/_next/static/chunks/cf872e8731d8a68e.js","/_next/static/chunks/a90ef41594f1f02c.js","/_next/static/chunks/14cfe29884804038.js"],"Image"]
+c:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/e308b2b9ce476a3e.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+0:{"buildId":"Qct-a4ku-ltUFpxdHnlGi","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-row xl:max-w-[1440px] mx-auto min-h-screen 2xl:px-3 xl:px-15 lg:px-15 md:px-15 sm:px-10 px-3","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-4 gap-12 w-full","children":[["$","aside",null,{"className":"lg:col-span-1 flex flex-col pb-0 lg:pb-10","children":["$","nav",null,{"className":"space-y-6 sticky top-30 h-[calc(100vh-150px)] hidden lg:flex flex-col ","children":[["$","div",null,{"className":"pb-4 border-b border-gray-200","children":["$","$L2",null,{"href":"/news-insights/","className":"flex items-center text-sm text-foreground hover:text-accent transition-colors group","children":[["$","svg",null,{"className":"w-4 h-4 mr-2 transition-transform group-hover:-translate-x-1","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M15 19l-7-7 7-7"}]}],"Back to Blogs"]}]}],["$","div",null,{"className":"pl-4 border-l-2 border-accent hidden lg:flex flex-col h-auto min-h-0","children":[["$","p",null,{"className":"text-xs font-semibold text-muted-foreground mb-4 uppercase tracking-wide","children":"On This Page:"}],["$","div",null,{"className":"flex-1 overflow-y-auto mt-2","style":{"scrollbarWidth":"thin"},"children":["$","ul",null,{"className":"space-y-2 pr-2 toc-container sticky top-0 text-sm","children":[["$","li","the-ai-boom-and-signs-of-a-bubble-0",{"children":["$","$L3",null,{"className":"cursor-pointer hover:underline transition-all 0.3s ease-in-out","target":"the-ai-boom-and-signs-of-a-bubble-0","children":"The AI boom, and signs of a bubble"}]}],["$","li","don-t-blindly-trust-ai-safety-accuracy-and-accountability-1",{"children":["$","$L3",null,{"className":"cursor-pointer hover:underline transition-all 0.3s ease-in-out","target":"don-t-blindly-trust-ai-safety-accuracy-and-accountability-1","children":"Don’t blindly trust AI: Safety, accuracy and accountability"}]}],["$","li","the-hidden-challenge-ai-s-immense-energy-demands-2",{"children":["$","$L3",null,{"className":"cursor-pointer hover:underline transition-all 0.3s ease-in-out","target":"the-hidden-challenge-ai-s-immense-energy-demands-2","children":"The hidden challenge: AI’s immense energy demands"}]}],["$","li","workforce-transformation-the-profound-impact-of-ai-on-jobs-3",{"children":["$","$L3",null,{"className":"cursor-pointer hover:underline transition-all 0.3s ease-in-out","target":"workforce-transformation-the-profound-impact-of-ai-on-jobs-3","children":"Workforce transformation: The profound impact of AI on jobs"}]}],["$","li","uk-context-investment-opportunity-and-responsibility-4",{"children":["$","$L3",null,{"className":"cursor-pointer hover:underline transition-all 0.3s ease-in-out","target":"uk-context-investment-opportunity-and-responsibility-4","children":"UK context: Investment, opportunity and responsibility"}]}],["$","li","what-health-and-social-care-leaders-should-do-next-5",{"children":["$","$L3",null,{"className":"cursor-pointer hover:underline transition-all 0.3s ease-in-out","target":"what-health-and-social-care-leaders-should-do-next-5","children":"What health and social care leaders should do next"}]}],["$","li","final-thought-a-moment-of-promise-and-a-moment-of-caution-6",{"children":["$","$L3",null,{"className":"cursor-pointer hover:underline transition-all 0.3s ease-in-out","target":"final-thought-a-moment-of-promise-and-a-moment-of-caution-6","children":"Final thought: A moment of promise, and a moment of caution"}]}],["$","li","references-7",{"children":["$","$L3",null,{"className":"cursor-pointer hover:underline transition-all 0.3s ease-in-out","target":"references-7","children":"References"}]}]]}]}]]}],["$","div",null,{"className":"pt-6 border-t border-gray-200 lg:block hidden","children":[["$","p",null,{"className":"text-xs font-semibold text-muted-foreground mb-4 uppercase tracking-wide","children":"Author"}],"$L4"]}],"$L5"]}]}],"$L6"]}]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","div",null,{"className":"space-y-3","children":[["$","$L9",null,{"alt":"Author avatar","loading":"lazy","width":"1000","height":"1000","decoding":"async","className":"rounded-full w-20 h-20 object-cover border-3 border-[#3e6594]","src":"https://blog.learnpac.co.uk/wp-content/uploads/sites/6/2025/12/Dr-Richard-Dune-LearnPac-Systems-UK-.jpg","style":{"color":"transparent"}}],["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","p",null,{"className":"text-sm font-semibold text-foreground","children":["Dr Richard Dune"," "]}],["$","span",null,{"children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","fill":"currentColor","className":"size-5 text-blue-500","children":["$","path",null,{"fillRule":"evenodd","d":"M8.603 3.799A4.49 4.49 0 0 1 12 2.25c1.357 0 2.573.6 3.397 1.549a4.49 4.49 0 0 1 3.498 1.307 4.491 4.491 0 0 1 1.307 3.497A4.49 4.49 0 0 1 21.75 12a4.49 4.49 0 0 1-1.549 3.397 4.491 4.491 0 0 1-1.307 3.497 4.491 4.491 0 0 1-3.497 1.307A4.49 4.49 0 0 1 12 21.75a4.49 4.49 0 0 1-3.397-1.549 4.49 4.49 0 0 1-3.498-1.306 4.491 4.491 0 0 1-1.307-3.498A4.49 4.49 0 0 1 2.25 12c0-1.357.6-2.573 1.549-3.397a4.49 4.49 0 0 1 1.307-3.497 4.49 4.49 0 0 1 3.497-1.307Zm7.007 6.387a.75.75 0 1 0-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 0 0-1.06 1.06l2.25 2.25a.75.75 0 0 0 1.14-.094l3.75-5.25Z","clipRule":"evenodd"}]}]}]]}],["$","p",null,{"className":"text-xs text-muted-foreground","children":"Founder & CEO, LearnPac Systems"}]]}]]}]
+5:["$","div",null,{"className":"pt-6 border-t border-gray-200 lg:block hidden","children":[["$","p",null,{"className":"text-xs font-semibold text-muted-foreground mb-3 uppercase tracking-wide","children":"Date Published"}],["$","p",null,{"className":"text-sm text-foreground","children":"18/11/25"}]]}]
+a:T34de,<html><head></head><body><p><em><strong>Why health and social care leaders must strengthen governance, workforce readiness and digital resilience as AI growth accelerates and investment cycles become unstable</strong></em></p>
+
+
+
+<p>Artificial intelligence has risen faster than almost any technology in recent memory. Over the past two years alone, investment has soared, valuations have surged, and nations have scrambled to position themselves as global AI leaders.</p>
+
+
+
+<p>But in a candid interview this week with the BBC, Google and Alphabet CEO Sundar Pichai issued a warning that cuts through the hype:</p>
+
+
+
+<p class="a-quote-block"><em>“No company is going to be immune if the AI bubble bursts, including us.”</em></p>
+
+
+
+<p>Coming from one of the world’s most influential technology leaders, this is not a throwaway comment. It is a call to pause, reflect, and prepare, particularly for health and social care leaders, as AI is now becoming integral to clinical practice, safeguarding, risk management, workforce planning, governance, and operational efficiency.</p>
+
+
+
+<p>In this blog, we explore what Pichai’s remarks mean for the NHS, local authorities, social care providers, and the wider ecosystem of health and care organisations that rely on digital systems, regulated workflows and statutory responsibilities.</p>
+
+
+
+<h2 class="wp-block-heading" id="the-ai-boom-and-signs-of-a-bubble-0"><strong>The AI boom, and signs of a bubble</strong></h2>
+
+
+
+<p>Pichai described the current AI boom as <em>“an extraordinary moment, even by Silicon Valley standards”</em>, but he also warned that irrationality is creeping into the investment cycle.</p>
+
+
+
+<p>He compared today’s environment to the dot-com bubble, when investment surged far ahead of capability and sustainability.</p>
+
+
+
+<p>Just as the internet ultimately proved transformative, despite the crash of early companies, Pichai expects AI to follow a similar trajectory. But he cautions that organisations should expect volatility, consolidation and turbulence as the market corrects.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Why this matters for health and social care</strong></h3>
+
+
+
+<p>Across the sector, AI is being deployed for:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Clinical decision support</li>
+
+
+
+<li>Diagnostics and imaging</li>
+
+
+
+<li>Safeguarding triage and risk detection</li>
+
+
+
+<li>Workforce rostering</li>
+
+
+
+<li>Predictive analytics</li>
+
+
+
+<li>Case management</li>
+
+
+
+<li>Medication support</li>
+
+
+
+<li>Virtual wards and remote monitoring.&nbsp;</li>
+</ul>
+
+
+
+<p>If the AI bubble wobbles or bursts, we could see:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vendor instability </strong>– Many AI companies are start-ups with uncertain finances</li>
+
+
+
+<li><strong>Orphaned technologies</strong> – Discontinued support for AI modules embedded in EHRs or care management systems.</li>
+
+
+
+<li><strong>Disruption to clinical workflows</strong> – Sudden removal or downgrading of tools relied upon for triage, risk scoring or prediction</li>
+
+
+
+<li><strong>Procurement risk</strong> – Organisations may face sunk costs, integration failures or compliance issues.</li>
+</ul>
+
+
+
+<p>Digital transformation in care settings must therefore be underpinned by robust governance, business continuity planning and multi-vendor strategies, not assumptions of AI-sector stability.</p>
+
+
+
+<h2 class="wp-block-heading" id="don-t-blindly-trust-ai-safety-accuracy-and-accountability-1"><strong>Don’t blindly trust AI: Safety, accuracy and accountability</strong></h2>
+
+
+
+<p>Another key warning from Pichai was unequivocal:</p>
+
+
+
+<p class="a-quote-block"><strong>“</strong><em>AI models, even state-of-the-art ones, should not be blindly trusted.”</em></p>
+
+
+
+<p>He noted that large models still produce errors, hallucinations and misleading outputs. Even frontier-level systems must be used alongside other research options, not as stand-alone sources of truth.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>For patient safety, this is critical</strong></h3>
+
+
+
+<p>AI tools now influence decisions that directly impact lives:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Clinical risk scores</li>
+
+
+
+<li>Safeguarding escalations</li>
+
+
+
+<li>Medication suggestions</li>
+
+
+
+<li>Mental health triage</li>
+
+
+
+<li>Falls and deterioration predictions</li>
+
+
+
+<li>Workforce and caseload modelling.&nbsp;</li>
+</ul>
+
+
+
+<p>If inaccurate, opaque or poorly governed, AI can cause harm at scale.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Governance essentials for safe adoption</strong></h3>
+
+
+
+<p>Health and social care leaders must ensure:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Human-in-the-loop by design</strong> – AI can support decisions, but cannot replace professional accountability.</li>
+
+
+
+<li><strong>Transparent, traceable outputs</strong> – Opaque “<em>black box</em>” recommendations are incompatible with regulated environments.</li>
+
+
+
+<li><strong>Clear escalation pathways </strong>– Staff must know when to override or report concerns.</li>
+
+
+
+<li><strong>Digital competency training </strong>– Frontline teams need confidence to use, verify and challenge AI-assisted outputs.</li>
+
+
+
+<li><strong>Regulatory alignment</strong> – NICE, MHRA (SaMD), ICO, CQC, and local safeguarding boards will increasingly expect structured evidence of safe AI use.</li>
+</ul>
+
+
+
+<p>AI can improve safety, but only if embedded within strong governance frameworks, not treated as infallible.</p>
+
+
+
+<h2 class="wp-block-heading" id="the-hidden-challenge-ai-s-immense-energy-demands-2"><strong>The hidden challenge: AI’s immense energy demands</strong></h2>
+
+
+
+<p>Pichai also highlighted an often-overlooked issue: AI consumes huge amounts of energy.</p>
+
+
+
+<p>AI currently accounts for 1.5% of global electricity use, and demand is accelerating rapidly as new data centres are built and larger models are trained.</p>
+
+
+
+<p>Pichai noted that this energy burden is already impacting Alphabet’s own climate targets, pushing back on ambitions to achieve net zero.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Implications for health and social care</strong></h3>
+
+
+
+<p>AI’s energy demands may seem abstract, but the consequences are very real:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Digital infrastructure strain</strong> – NHS organisations, ICSs and councils will increasingly require stronger energy and network capacity to run advanced AI systems at scale.</li>
+
+
+
+<li><strong>Cost pressures</strong> – Running large models is expensive, and public budgets are already stretched.</li>
+
+
+
+<li><strong>Sustainability targets </strong>– Digital transformation must now be factored into carbon reduction strategies and Green Plans.</li>
+
+
+
+<li><strong>Procurement decisions –</strong> Health and care organisations must begin assessing the energy efficiency and sustainability credentials of AI suppliers.</li>
+</ul>
+
+
+
+<p>In short, digital and sustainability agendas are converging, and leaders must plan accordingly.</p>
+
+
+
+<h2 class="wp-block-heading" id="workforce-transformation-the-profound-impact-of-ai-on-jobs-3"><strong>Workforce transformation: The profound impact of AI on jobs</strong></h2>
+
+
+
+<p>Pichai described AI as:</p>
+
+
+
+<p class="pl-8">“‘<em>The most profound technology</em>’ humanity has ever worked on,<br>one that will ‘<em>evolve and transition certain jobs</em>’ and require people to adapt.”</p>
+
+
+
+<p>He emphasised that every profession, from teaching to medicine to social work, will remain essential, but those who learn to use AI tools effectively “<em>will do better</em>”.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Workforce implications for health and social care</strong></h3>
+
+
+
+<p>This shift is already visible:</p>
+
+
+
+<p>New roles emerging:</p>
+
+
+
+<ul class="wp-block-list">
+<li>AI safety specialists</li>
+
+
+
+<li>Prompt engineers</li>
+
+
+
+<li>Data quality officers</li>
+
+
+
+<li>Algorithm auditors</li>
+
+
+
+<li>Digital ward coordinators</li>
+
+
+
+<li>Augmented clinicians.&nbsp;</li>
+</ul>
+
+
+
+<p>Existing roles changing:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Administrators</li>
+
+
+
+<li>Radiographers</li>
+
+
+
+<li>Social workers</li>
+
+
+
+<li>Pharmacists</li>
+
+
+
+<li>HR teams</li>
+
+
+
+<li>Care coordinators.&nbsp;</li>
+</ul>
+
+
+
+<p>Skill gaps are widening. Without structured, national-level CPD and training, staff risk falling behind rapidly evolving technologies.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>What the health and social care sector needs now</strong></h3>
+
+
+
+<p>To prepare the workforce, ICSs, NHS Trusts, social care providers and training bodies must develop:</p>
+
+
+
+<ul class="wp-block-list">
+<li>AI competency frameworks</li>
+
+
+
+<li>Digital literacy standards</li>
+
+
+
+<li>Mandatory AI safety training</li>
+
+
+
+<li>CPD pathways for augmented roles</li>
+
+
+
+<li>Assurance processes for AI-influenced decisions</li>
+
+
+
+<li>Shared learning across health, social care and education.&nbsp;</li>
+</ul>
+
+
+
+<p>The social care workforce, often overlooked in national digital policy, must be included in this training evolution, or risk falling dramatically behind.</p>
+
+
+
+<p>At <a href="https://learnpac.co.uk/" target="_blank" rel="noreferrer noopener"><em>LearnPac Systems</em></a>, this aligns directly with our mission: “<em>to equip organisations with evidence-informed training, governance frameworks and digital readiness tools that support safe, confident AI adoption</em>.”</p>
+
+
+
+<h2 class="wp-block-heading" id="uk-context-investment-opportunity-and-responsibility-4"><strong>UK context: Investment, opportunity and responsibility</strong></h2>
+
+
+
+<p>Pichai reaffirmed Alphabet’s commitment to the UK, including:</p>
+
+
+
+<ul class="wp-block-list">
+<li>£5bn investment in AI infrastructure</li>
+
+
+
+<li>Expansion of DeepMind</li>
+
+
+
+<li>Commitment to train AI models in the UK, a major strategic shift.&nbsp;</li>
+</ul>
+
+
+
+<p>This aligns with the UK’s ambition to become the world’s “<em>third AI superpower</em>” after the US and China.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>What this means for UK health and social care</strong></h3>
+
+
+
+<p>This investment could accelerate:</p>
+
+
+
+<ul class="wp-block-list">
+<li>AI-enabled clinical trials</li>
+
+
+
+<li>Diagnostic innovation</li>
+
+
+
+<li>Mental health analysis tools</li>
+
+
+
+<li>Genomic medicine</li>
+
+
+
+<li>New drug discovery pipelines</li>
+
+
+
+<li>Digital transformation across the NHS</li>
+
+
+
+<li>Integrated data platforms for ICSs.&nbsp;</li>
+</ul>
+
+
+
+<p>But it also increases responsibility around:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Data governance</li>
+
+
+
+<li>Privacy compliance</li>
+
+
+
+<li>Algorithmic fairness</li>
+
+
+
+<li>National digital infrastructure</li>
+
+
+
+<li>Equitable access across regions</li>
+
+
+
+<li>Environmental sustainability.&nbsp;</li>
+</ul>
+
+
+
+<p>AI innovation is welcome, but must be delivered fairly, safely and sustainably, not only in world-class centres but across the entire system, including social care and community settings.</p>
+
+
+
+<h2 class="wp-block-heading" id="what-health-and-social-care-leaders-should-do-next-5"><strong>What health and social care leaders should do next</strong></h2>
+
+
+
+<p>Based on Pichai’s insights and the sector’s trajectory, organisations should prioritise the following:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Strengthen governance frameworks</strong> – Embed AI oversight in risk management, quality assurance and clinical governance processes.</li>
+
+
+
+<li><strong>Diversify suppliers and avoid over-dependence </strong>– Market volatility means resilience depends on avoiding single-vendor strategies.</li>
+
+
+
+<li><strong>Build system-wide digital literacy</strong> – Make AI competence mainstream across roles and sectors.</li>
+
+
+
+<li><strong>Prepare for evolving regulation</strong> – MHRA, NICE, CQC, ICO, and safeguarding boards will tighten expectations as AI matures.</li>
+
+
+
+<li><strong>Monitor sustainability and operational costs </strong>– AI adoption must align with energy strategies and resource constraints.</li>
+
+
+
+<li><strong>Prioritise public trust and service user voice </strong>– Transparency, human oversight and clear accountability are essential for legitimacy.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="final-thought-a-moment-of-promise-and-a-moment-of-caution-6"><strong>Final thought: A moment of promise, and a moment of caution</strong></h2>
+
+
+
+<p>Sundar Pichai’s remarks do not signal pessimism. Rather, they remind us that AI’s promise comes with volatility, uncertainty and responsibility.</p>
+
+
+
+<p>Health and social care stands to gain enormously from well-governed AI, improved diagnostics, safer systems, streamlined operations and more empowered professionals.</p>
+
+
+
+<p>But these benefits will only be realised if organisations take a measured, governance-led approach, grounded in equity, safety, sustainability and workforce readiness.</p>
+
+
+
+<p>The AI revolution is here. For our sector, and for <a href="https://learnpac.co.uk/" target="_blank" rel="noreferrer noopener"><em>LearnPac Systems</em></a>‘ work across compliance, governance and workforce development, the challenge is to harness it wisely, ensuring innovation strengthens care, supports staff, and secures public trust.</p>
+
+
+
+<h2 class="wp-block-heading" id="references-7"><strong>References</strong></h2>
+
+
+
+<p>BBC News (2025). <em>Google boss says trillion-dollar AI investment boom has ‘elements of irrationality’</em>. 18 November.</p>
+
+
+
+<p></p>
+</body></html>6:["$","article",null,{"className":"lg:col-span-3","children":[["$","div",null,{"className":"lg:hidden ","children":["$","$L2",null,{"href":"/news-insights/","className":"flex items-center text-sm text-foreground hover:text-accent transition-colors group mb-4","children":[["$","svg",null,{"className":"w-4 h-4 mr-2 transition-transform group-hover:-translate-x-1","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M15 19l-7-7 7-7"}]}],"Back to Blogs"]}]}],["$","article",null,{"className":"w-full","children":[["$","div",null,{"className":"text-start mb-12 pt-8","children":["$","h1",null,{"className":"text-4xl lg:text-5xl font-semibold text-gray-800 mb-4 leading-tight","dangerouslySetInnerHTML":{"__html":"AI bubble or transformation? What it means for health leaders"}}]}],["$","div",null,{"className":"rounded-2xl overflow-hidden shadow-lg relative h-64 lg:h-100","children":["$","$L9",null,{"src":"https://blog.learnpac.co.uk/wp-content/uploads/sites/6/2025/12/doctor-examining-patient-s-mri-scans-in-hospital-r-2025-08-26-08-12-29-utc.jpg","alt":"","title":"","fill":true,"priority":true,"sizes":"(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 1200px","quality":85,"className":"object-cover w-full h-full","style":{"objectPosition":"center"}}]}],["$","div",null,{"className":"mb-9 flex justify-center","children":["$","small",null,{"className":"text-gray-400","children":["Image by ","Pressmaster"," via Envato Elements"]}]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$a"}}]]}],"$Lb"]}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/14cfe29884804038.js","async":true}]
+8:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+b:["$","div",null,{"className":"mb-5","children":[["$","div",null,{"className":"pt-6 border-t border-gray-200 block lg:hidden","children":[["$","p",null,{"className":"text-xs font-semibold text-muted-foreground mb-4 uppercase tracking-wide","children":"Author"}],["$","div",null,{"className":"space-y-3","children":[["$","$L9",null,{"alt":"Author avatar","loading":"lazy","width":"1000","height":"1000","decoding":"async","className":"rounded-full w-20 h-20 object-cover border-3 border-[#3e6594]","src":"https://blog.learnpac.co.uk/wp-content/uploads/sites/6/2025/12/Dr-Richard-Dune-LearnPac-Systems-UK-.jpg","style":{"color":"transparent"}}],["$","div",null,{"children":[["$","p",null,{"className":"text-sm font-semibold text-foreground","children":"Dr Richard Dune"}],["$","p",null,{"className":"text-xs text-muted-foreground","children":"Founder & CEO, LearnPac Systems"}]]}]]}]]}],["$","div",null,{"className":"pt-6 border-t border-gray-200 block lg:hidden","children":[["$","p",null,{"className":"text-xs font-semibold text-muted-foreground mb-3 uppercase tracking-wide","children":"Date Published"}],["$","p",null,{"className":"text-sm text-foreground","children":"2025-11-18T14:30:27"}]]}]]}]
+e:null
